@@ -8,6 +8,9 @@ Hired to people to fulfill their fantasies, their deep dark fantasies.
 
 * 🌍  I'm based in Orsk, Russia
 * ✉️  You can contact me at [lev.stepanets@gmail.com](mailto:lev.stepanets@gmail.com)
+* 🚀  I'm currently working on [a-iceberg](http://iceberg.ru)
+* 🧠  I'm learning erlang to enhance my skills in developing highly reliable and fault-tolerant systems
+* ⚡  I'm secretly Spiderman... but don't tell anyone
 
 ### Skills
 
