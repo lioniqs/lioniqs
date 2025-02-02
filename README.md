@@ -4,7 +4,7 @@ Hi 👋 My name is Lev Stepanets
 Backend Developer
 -----------------
 
-Hired to people to fulfill their fantasies, their deep dark fantasies.
+Transforming complex ideas into reliable and efficient software solutions.
 
 * 🌍  I'm based in Orsk, Russia
 * ✉️  You can contact me at [lev.stepanets@gmail.com](mailto:lev.stepanets@gmail.com)
